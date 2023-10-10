@@ -1,2 +1,2 @@
-# Python-Internship-CodSoft
+# CodSoft
 My Internship projects of python @CodSoft
